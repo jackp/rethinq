@@ -1,0 +1,18 @@
+:root {
+	/* Colors */
+	--brand-red: #f4241e;
+
+	/* Typography */
+	--heading-font: "Montserrat";
+	--body-font: "Roboto";
+	--base-font-size: 18px;
+
+	/* Layout */
+	--header-height: 6rem;
+
+	--container: {
+		max-width: 1100px;
+		margin: 0 auto;
+		padding: 1rem;
+	};
+}
